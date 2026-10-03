@@ -68,6 +68,5 @@ restaurante_app/
 │   ├── __init__.py
 │   ├── login_view.py
 │   └── main_view.py
-├── .gitignore
 ├── main.py
 └── README.md
